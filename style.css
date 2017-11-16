@@ -1,0 +1,128 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font: 14px/17px 'Open Sans';
+    color: #000;
+    background: #f5f8fa;
+    min-width: 300px;
+}
+
+.logo {
+    height: 100px;
+    width: 980px;
+    background: #c5c5ed;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding-top: 15px;
+    box-sizing: border-box;
+    border: 1px solid white;
+}
+
+.logo img {
+    padding-left: 15px;
+}
+
+.region {
+    font-size: 24px;
+    margin-left: 40px;
+    padding-top: 15px;
+    line-height: 1;
+    color: #272727;
+    font-weight: 300;
+}
+
+.div region {
+    color: #9c9c9c;
+    font-size: 50px;
+    margin: -13px 0 6px;
+}
+
+.map {
+    height: 87px;
+    width: 980px;
+    background: #c5c5ed;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+    display: flex;
+}
+
+.rap {
+    height: 42px;
+    width: 720px;
+    margin-top: 23px;
+    margin-left: 30px;
+    background: white;
+    color: grey;
+    padding-left: 15px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.button {
+    border: 0 !important;
+    background: #8cc63f !important;
+    margin-left: 10px !important;
+    margin-top: 23px;
+    text-transform: uppercase !important;
+    border-radius: 2px !important;
+    text-shadow: 0 1px 2px rgba(35, 31, 32, 0.57) !important;
+    width: 160px !important;
+    height: 42px;
+}
+
+.button a {
+    text-decoration: none;
+    color: #fff !important;
+}
+
+.also {
+    background: #c5c5ed;
+    height: 500px;
+    width: 980px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+
+.page {
+    height: 50px;
+    width: 933px;
+    margin-left: 15px;
+    box-sizing: border-box;
+    display: flex;
+}
+.h1{
+    font-size: 24px;
+    line-height: 1;
+    font-weight: normal;
+}
+.h2{
+    font-size: 22px;
+    color: #878888;
+    margin-top: 20px;
+     margin-left: 5px;
+}
+.menu{
+    height: 40px;
+    width: 933px;
+    margin-left: 15px;
+    margin-top: 15px;
+    display: flex;
+}
+.contact{
+    margin-top: 11px;
+}
+.conract a{
+    text-transform: uppercase;
+    position: relative;
+    padding: 10px 10px 10px 35px;
+    text-decoration: none;
+    color: aqua;
+    font-size: 15px;
+}
