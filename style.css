@@ -93,36 +93,92 @@ body {
 .page {
     height: 50px;
     width: 933px;
-    margin-left: 15px;
+    margin-left: auto;
     box-sizing: border-box;
     display: flex;
 }
-.h1{
+
+.h1 {
     font-size: 24px;
     line-height: 1;
     font-weight: normal;
 }
-.h2{
-    font-size: 22px;
+
+.h2 {
+    font-size: 24px;
     color: #878888;
     margin-top: 20px;
-     margin-left: 5px;
+    margin-left: 5px;
 }
-.menu{
+
+.menu {
     height: 40px;
     width: 933px;
     margin-left: 15px;
     margin-top: 15px;
     display: flex;
-}
-.contact{
     margin-top: 11px;
 }
-.conract a{
-    text-transform: uppercase;
-    position: relative;
-    padding: 10px 10px 10px 35px;
+
+.menu a {
+    color: black;
+    font-size: 24px;
+    padding-left: 43px;
     text-decoration: none;
-    color: aqua;
-    font-size: 15px;
+}
+
+.re {
+    margin-top: 10px;
+    margin-left: 55px;
+    color: black;
+    font-size: 24px;
+}
+
+.ad {
+    margin-left: 55px;
+    margin-top: 15px;
+}
+
+.ad a {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+.flexil {
+    display: flex;
+    margin-top: 45px;
+   
+    height: 200px;
+}
+
+.img {
+    height: 180px;
+    width: 240px;
+    margin-left: 45px;
+}
+.on{
+    width: 197px;
+    height: 270px;
+    margin-left: 15px; 
+    
+}
+.on a{
+    font-size: 25px;
+    color: black;
+}
+.time{
+    font-size: 24px;
+    margin-top: 16px;
+    color: black;
+    margin-left: 55px;
+}
+.op{
+    margin-left: 55px;
+    margin-top: 15px;
+    color: black;
+    font-size: 24px;
+}
+.op a{
+    color: blue;
 }
